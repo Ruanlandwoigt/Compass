@@ -1,8 +1,8 @@
 # DIA 1 - Git gitlab e README 
 
 ## Comandos Git - Resumo 
-- `git config --global user.name "Ruan Eduardo de Moura Landwoigt"` - Configura o nome do usuário coloquei assim como estava no meu perfil do gitlab
-- `git config --global user.email "@Ruanlandwoigt"` - Configura o email do usuário coloquei assim como estava no meu perfil do gitlab
+- ` git config --global user.name "Ruan Eduardo de Moura Landwoigt"` - Configura o nome do usuário coloquei assim como estava no meu perfil do gitlab
+- ` git config --global user.email "@Ruanlandwoigt"` - Configura o email do usuário coloquei assim como estava no meu perfil do gitlab
 - `--help` - Mostra todos os comandos disponíveis.
 - `git init`: Inicializa um novo repositório Git, pode ser feito com o botao direito do mouse no diretório.
 - `git clone (Link)`: Cria uma cópia local de um repositório remoto.
